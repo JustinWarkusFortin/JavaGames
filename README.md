@@ -5,4 +5,6 @@ Completed projects include:
 
 -Snake Game
 
+-Puzzle Game
+
 Projects in the works are:
